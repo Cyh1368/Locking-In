@@ -41,9 +41,9 @@
 - Acceptance: demo runs without external network calls by default. ✅
 
 7. Testing & metrics
-- 7.1 Scripted scenarios to measure app-switch reductions and session times.
-- 7.2 Simple user survey for qualitative satisfaction.
-- Acceptance: collect example metrics from scripted runs.
+- 7.1 Scripted scenarios to measure app-switch reductions and session times. ✅
+- 7.2 Simple user survey for qualitative satisfaction. ✅
+- Acceptance: collect example metrics from scripted runs. ✅
 
 8. Documentation & demo script
 - 8.1 Write a short demo script showing 3 scenarios.
