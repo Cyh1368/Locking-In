@@ -46,9 +46,9 @@
 - Acceptance: collect example metrics from scripted runs. ✅
 
 8. Documentation & demo script
-- 8.1 Write a short demo script showing 3 scenarios.
-- 8.2 Add README instructions for running the demo and toggling mocks. ✅ (already in README)
-- Acceptance: reviewer can follow README and run demo.
+- 8.1 Write a short demo script showing 3 scenarios. ✅
+- 8.2 Add README instructions for running the demo and toggling mocks. ✅
+- Acceptance: reviewer can follow README and run demo. ✅
 - Acceptance: an external reviewer can follow README and run demo.
 
 9. Optional follow-ups
