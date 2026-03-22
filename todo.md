@@ -31,9 +31,9 @@
 - Acceptance: overlay displays appropriate message and actions for each scenario. ✅
 
 5. Logging & developer/debug view
-- 5.1 Record decision events, timestamps, and inputs used for decisions.
-- 5.2 Build a debug UI showing the decision log and rule evaluation breakdown.
-- Acceptance: developer view shows full decision trace for any event.
+- 5.1 Record decision events, timestamps, and inputs used for decisions. ✅
+- 5.2 Build a debug UI showing the decision log and rule evaluation breakdown. ✅
+- Acceptance: developer view shows full decision trace for any event. ✅
 
 6. Privacy & permissions
 - 6.1 Implement local-first storage for usage logs and settings.
