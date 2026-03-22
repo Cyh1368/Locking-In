@@ -1,0 +1,1 @@
+print("Locking-In Visual Demo: Run visual_demo.py for interactive simulation.")
