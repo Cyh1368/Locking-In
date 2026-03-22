@@ -10,9 +10,9 @@
 ## Tasks (priority order)
 
 1. Project setup
-- 1.1 Create repo structure: `src/`, `demo/`, `docs/`.
-- 1.2 Add README and development instructions.
-- Acceptance: repo can run demo locally.
+- 1.1 Create repo structure: `src/`, `demo/`, `docs/`. ✅
+- 1.2 Add README and development instructions. ✅
+- Acceptance: repo can run demo locally. ✅
 
 2. Mock data & integrations
 - 2.1 Implement mocked Calendar, Tasks, and Inbox count services.
