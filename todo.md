@@ -15,9 +15,9 @@
 - Acceptance: repo can run demo locally. ✅
 
 2. Mock data & integrations
-- 2.1 Implement mocked Calendar, Tasks, and Inbox count services.
-- 2.2 Provide configurable scenarios (e.g., "no unread", "urgent message", "focus meeting").
-- Acceptance: demo can toggle scenarios via config file or UI.
+- 2.1 Implement mocked Calendar, Tasks, and Inbox count services. ✅
+- 2.2 Provide configurable scenarios (e.g., "no unread", "urgent message", "focus meeting"). ✅
+- Acceptance: demo can toggle scenarios via config file or UI. ✅
 
 3. Decision rule engine (core logic)
 - 3.1 Implement configurable heuristics (recency threshold N, priority contacts, calendar importance).
