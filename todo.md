@@ -36,9 +36,9 @@
 - Acceptance: developer view shows full decision trace for any event. ✅
 
 6. Privacy & permissions
-- 6.1 Implement local-first storage for usage logs and settings.
-- 6.2 Add consent flow and clear explanation of data usage.
-- Acceptance: demo runs without external network calls by default.
+- 6.1 Implement local-first storage for usage logs and settings. ✅
+- 6.2 Add consent flow and clear explanation of data usage. ✅
+- Acceptance: demo runs without external network calls by default. ✅
 
 7. Testing & metrics
 - 7.1 Scripted scenarios to measure app-switch reductions and session times.
