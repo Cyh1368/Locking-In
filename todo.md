@@ -26,9 +26,9 @@
 - Acceptance: given a scenario, engine outputs action (`allow`, `nudge`, `soft-block`) and rationale. ✅
 
 4. Messaging & UX overlay
-- 4.1 Build a minimal overlay UI with message, reason, and actions: `Proceed`, `Snooze`, `Block (10m)`, `Override`.
-- 4.2 Ensure accessible labels and keyboard support.
-- Acceptance: overlay displays appropriate message and actions for each scenario.
+- 4.1 Build a minimal overlay UI with message, reason, and actions: `Proceed`, `Snooze`, `Block (10m)`, `Override`. ✅
+- 4.2 Ensure accessible labels and keyboard support. ✅ (basic keyboard support via Tkinter)
+- Acceptance: overlay displays appropriate message and actions for each scenario. ✅
 
 5. Logging & developer/debug view
 - 5.1 Record decision events, timestamps, and inputs used for decisions.
