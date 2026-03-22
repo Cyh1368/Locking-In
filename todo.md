@@ -2,10 +2,10 @@
 
 ## Milestones
 
-- M1 — Spec & tasks (this file)
-- M2 — Prototype demo (mocked data + UI overlay)
-- M3 — Rule engine + logging
-- M4 — Usability test & metrics
+- M1 — Spec & tasks (this file) ✅
+- M2 — Prototype demo (mocked data + UI overlay) ✅
+- M3 — Rule engine + logging ✅
+- M4 — Usability test & metrics ✅
 
 ## Tasks (priority order)
 
