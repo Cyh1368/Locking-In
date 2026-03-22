@@ -1,0 +1,282 @@
+[
+  {
+    "timestamp": "2026-03-22 13:49:24.173293",
+    "app_name": "Instagram",
+    "scenario": "normal",
+    "action": "allow",
+    "reason": "No issues detected.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.173293"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.173293",
+    "app_name": "Gmail",
+    "scenario": "normal",
+    "action": "allow",
+    "reason": "No issues detected.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.173293"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.173293",
+    "app_name": "Instagram",
+    "scenario": "focus_meeting",
+    "action": "soft-block",
+    "reason": "Upcoming high-importance event: Focus Session.",
+    "inputs": {
+      "cal_events": 1,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.173293"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.173293",
+    "app_name": "Texts",
+    "scenario": "urgent_message",
+    "action": "allow",
+    "reason": "Important message from Boss: Urgent: Review needed.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 1,
+      "important_msgs": 1,
+      "last_open": "2026-03-22 13:49:24.173293"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.437550",
+    "app_name": "Instagram",
+    "scenario": "normal",
+    "action": "allow",
+    "reason": "No issues detected.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.437550"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.437550",
+    "app_name": "Gmail",
+    "scenario": "normal",
+    "action": "allow",
+    "reason": "No issues detected.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.437550"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.437550",
+    "app_name": "Instagram",
+    "scenario": "normal",
+    "action": "allow",
+    "reason": "No issues detected.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.437550"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.437550",
+    "app_name": "Texts",
+    "scenario": "normal",
+    "action": "allow",
+    "reason": "No issues detected.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.437550"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.437550",
+    "app_name": "Instagram",
+    "scenario": "no_unread",
+    "action": "nudge",
+    "reason": "You checked Instagram recently and have no unread items.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 0,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.437550"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.437550",
+    "app_name": "Gmail",
+    "scenario": "no_unread",
+    "action": "nudge",
+    "reason": "You checked Gmail recently and have no unread items.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 0,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.437550"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.437550",
+    "app_name": "Instagram",
+    "scenario": "no_unread",
+    "action": "nudge",
+    "reason": "You checked Instagram recently and have no unread items.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 0,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.437550"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.451587",
+    "app_name": "Texts",
+    "scenario": "no_unread",
+    "action": "nudge",
+    "reason": "You checked Texts recently and have no unread items.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 0,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.451587"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.453008",
+    "app_name": "Instagram",
+    "scenario": "urgent_message",
+    "action": "allow",
+    "reason": "Important message from Boss: Urgent: Review needed.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 1,
+      "important_msgs": 1,
+      "last_open": "2026-03-22 13:49:24.453008"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.453807",
+    "app_name": "Gmail",
+    "scenario": "urgent_message",
+    "action": "allow",
+    "reason": "Important message from Boss: Urgent: Review needed.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 1,
+      "important_msgs": 1,
+      "last_open": "2026-03-22 13:49:24.453807"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.453807",
+    "app_name": "Instagram",
+    "scenario": "urgent_message",
+    "action": "allow",
+    "reason": "Important message from Boss: Urgent: Review needed.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 1,
+      "important_msgs": 1,
+      "last_open": "2026-03-22 13:49:24.453807"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.453807",
+    "app_name": "Texts",
+    "scenario": "urgent_message",
+    "action": "allow",
+    "reason": "Important message from Boss: Urgent: Review needed.",
+    "inputs": {
+      "cal_events": 0,
+      "active_tasks": 0,
+      "unread_count": 1,
+      "important_msgs": 1,
+      "last_open": "2026-03-22 13:49:24.453807"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.453807",
+    "app_name": "Instagram",
+    "scenario": "focus_meeting",
+    "action": "soft-block",
+    "reason": "Upcoming high-importance event: Focus Session.",
+    "inputs": {
+      "cal_events": 1,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.453807"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.453807",
+    "app_name": "Gmail",
+    "scenario": "focus_meeting",
+    "action": "soft-block",
+    "reason": "Upcoming high-importance event: Focus Session.",
+    "inputs": {
+      "cal_events": 1,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.453807"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.453807",
+    "app_name": "Instagram",
+    "scenario": "focus_meeting",
+    "action": "soft-block",
+    "reason": "Upcoming high-importance event: Focus Session.",
+    "inputs": {
+      "cal_events": 1,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.453807"
+    }
+  },
+  {
+    "timestamp": "2026-03-22 13:49:24.453807",
+    "app_name": "Texts",
+    "scenario": "focus_meeting",
+    "action": "soft-block",
+    "reason": "Upcoming high-importance event: Focus Session.",
+    "inputs": {
+      "cal_events": 1,
+      "active_tasks": 0,
+      "unread_count": 5,
+      "important_msgs": 0,
+      "last_open": "2026-03-22 13:49:24.453807"
+    }
+  }
+]

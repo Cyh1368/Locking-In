@@ -1,0 +1,26 @@
+[
+  {
+    "scenario": "normal",
+    "app_switches": 4,
+    "total_session_time": 4,
+    "total_time": 0.0
+  },
+  {
+    "scenario": "no_unread",
+    "app_switches": 0,
+    "total_session_time": 0,
+    "total_time": 0.01507568359375
+  },
+  {
+    "scenario": "urgent_message",
+    "app_switches": 4,
+    "total_session_time": 4,
+    "total_time": 0.0007987022399902344
+  },
+  {
+    "scenario": "focus_meeting",
+    "app_switches": 0,
+    "total_session_time": 0,
+    "total_time": 0.0
+  }
+]
