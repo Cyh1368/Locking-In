@@ -20,10 +20,10 @@
 - Acceptance: demo can toggle scenarios via config file or UI. ✅
 
 3. Decision rule engine (core logic)
-- 3.1 Implement configurable heuristics (recency threshold N, priority contacts, calendar importance).
-- 3.2 Add a lightweight scoring function for app-open events.
-- 3.3 Expose overrides and cooldowns.
-- Acceptance: given a scenario, engine outputs action (`allow`, `nudge`, `soft-block`) and rationale.
+- 3.1 Implement configurable heuristics (recency threshold N, priority contacts, calendar importance). ✅
+- 3.2 Add a lightweight scoring function for app-open events. ✅
+- 3.3 Expose overrides and cooldowns. ✅
+- Acceptance: given a scenario, engine outputs action (`allow`, `nudge`, `soft-block`) and rationale. ✅
 
 4. Messaging & UX overlay
 - 4.1 Build a minimal overlay UI with message, reason, and actions: `Proceed`, `Snooze`, `Block (10m)`, `Override`.
